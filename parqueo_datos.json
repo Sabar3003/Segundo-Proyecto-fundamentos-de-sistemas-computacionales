@@ -1,0 +1,84 @@
+{
+  "vehiculos_activos": {
+    "123": {
+      "id": "123",
+      "hora_entrada": "2025-11-27T11:17:41.134171",
+      "hora_salida": null,
+      "parqueo": 1,
+      "costo": 0,
+      "pagado": false
+    },
+    "143": {
+      "id": "143",
+      "hora_entrada": "2025-11-27T11:17:50.554748",
+      "hora_salida": null,
+      "parqueo": 1,
+      "costo": 0,
+      "pagado": false
+    },
+    "153": {
+      "id": "153",
+      "hora_entrada": "2025-11-27T11:17:54.679145",
+      "hora_salida": null,
+      "parqueo": 1,
+      "costo": 0,
+      "pagado": false
+    },
+    "1236": {
+      "id": "1236",
+      "hora_entrada": "2025-11-27T11:18:17.009465",
+      "hora_salida": null,
+      "parqueo": 1,
+      "costo": 0,
+      "pagado": false
+    }
+  },
+  "historial_vehiculos": [
+    {
+      "id": "ABC123",
+      "hora_entrada": "2025-11-13T15:23:17.577900",
+      "hora_salida": "2025-11-13T15:23:17.681786",
+      "parqueo": 1,
+      "costo": 1000,
+      "pagado": false
+    },
+    {
+      "id": "1sa",
+      "hora_entrada": "2025-11-13T15:27:01.572635",
+      "hora_salida": "2025-11-13T15:27:19.171126",
+      "parqueo": 2,
+      "costo": 2000,
+      "pagado": false
+    }
+  ],
+  "espacios_ocupados": {
+    "parqueo1": 4,
+    "parqueo2": 0
+  },
+  "leds_estado": {
+    "parqueo1": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "parqueo2": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+tkinter
+requests
+json
+datetime
+socket
+threading
+dataclasses
+typing
+os
